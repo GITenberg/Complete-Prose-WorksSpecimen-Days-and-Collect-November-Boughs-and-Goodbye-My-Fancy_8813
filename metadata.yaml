@@ -1,0 +1,31 @@
+_repo: Complete-Prose-WorksSpecimen-Days-and-Collect-November-Boughs-and-Goodbye-My-Fancy_8813
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whitman, Walt
+    alias: Whitman, Walter
+    birthdate: 1819
+    deathdate: 1892
+    gutenberg_agent_id: '600'
+    url: http://www.gutenberg.org/2009/agents/600
+    wikipedia: http://en.wikipedia.org/wiki/Walt_Whitman
+description: Whitman covers the Civil War, Darwin, democracy, Shakespeare, Lincoln,
+  friendship, Brooklyn, government work, birds, rivers, technology, politics and politicians,
+  poets, and a multitude of other topics in this indispensable volume drawn from Specimen
+  Days, Notes Left Over, Pieces in Early Youth, November Boughs , and other works.
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature'
+- !lcc 'PS'
+- GITenberg
+title: 'Complete Prose Works
+
+  Specimen Days and Collect, November Boughs and Goodbye My Fancy'
+url: http://www.gutenberg.org/ebooks/8813
